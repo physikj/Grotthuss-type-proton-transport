@@ -1,5 +1,6 @@
 # Grotthuss-type-proton-transport
 Grotthuss-type proton transport through hydrogen molecules H2 in hydrogen hydrate under extreme conditions
+
 This repository contains the MATLAB analysis scripts used to identify and characterize the Grotthuss-type proton relay mechanism in compressed hydrogen-water mixtures (C3 phase) using First-Principles Molecular Dynamics (FPMD) trajectories (VASP `XDATCAR` format).
 ## ⚙️ Requirements
 
